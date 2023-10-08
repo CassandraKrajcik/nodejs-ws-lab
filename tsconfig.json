@@ -1,5 +1,5 @@
 {
-  "compilerOptions": {
+! "compilerOptions": {
     "target": "es2016",
     "module": "commonjs",
     "sourceMap": true,
@@ -11,3 +11,4 @@
     "node_modules/phaser3-docs/typescript/phaser.d.ts"
   ]
 }
+ 
