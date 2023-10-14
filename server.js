@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+# /usr/bin/env node
 
 const { Server: WebSocketServer } = require("ws");
 const express = require("express");
@@ -84,3 +84,4 @@ if (require.main === module) {
     setupWSServer(server);
   });
 }
+ 
