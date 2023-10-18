@@ -1,4 +1,4 @@
-# nodejs-ws-lab
+* nodejs-ws-lab
 
 University of Alberta, CMPUT 404 Lab 8 starter repository. Create a basic Phaser
 game with WebSocket connectivity for real time server to client communication.
@@ -15,3 +15,4 @@ game with WebSocket connectivity for real time server to client communication.
     * `npm start`
 
 Application should be up at [http://localhost:8080](http://localhost:8080).
+ 
